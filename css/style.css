@@ -146,8 +146,8 @@ body{
 
 
 
-@media (min-width: 1300px){
-    .art{
+@media (max-width: 1348px){
+    .avatar2 img{
         width: 420px;
         height: 680px;
     }
