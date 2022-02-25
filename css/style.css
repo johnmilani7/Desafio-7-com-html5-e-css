@@ -146,7 +146,7 @@ body{
 
 
 
-@media (max-width: 1400px){
+@media (min-width: 1300px){
     .art{
         width: 420px;
         height: 680px;
