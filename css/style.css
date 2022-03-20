@@ -79,10 +79,9 @@ body{
     font-size: 19px;
     font-weight: bolder;
     color: #FF4656;
-    fill: solid;
     padding: 5px;
     letter-spacing: 1px;
-    font-style: bold;
+    font-weight: bold;
 }
 
 .valor img{
